@@ -2,7 +2,7 @@
 
 > A Vue.js project
 > vuex管理聊天信息
-[示例](图片.png)
+![示例图片](https://raw.githubusercontent.com/DarkSide7H/vue-chat/master/%E5%9B%BE%E7%89%87.png)
 
 ## easemob 
 AppKey:1106190415055331#test
